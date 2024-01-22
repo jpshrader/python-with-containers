@@ -1,0 +1,11 @@
+[FORMAT]
+max-line-length=240
+max-args=10
+
+disable=
+    unsupported-binary-operation,
+    consider-using-with,
+    bare-except,
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
